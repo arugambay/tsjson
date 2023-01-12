@@ -1,5 +1,5 @@
 # Aufgabe Json Konten Analyse
-
+Hallo
 ![i](details.png)
 1. Öffnen Sie die Datei accounts.json und laden Sie die JSON-Daten in eine Variable. Sie können die open-Funktion und die json.load-Funktion verwenden, um dies zu tun.
 
